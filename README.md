@@ -1,2 +1,2 @@
-# automa-oLivros
+# automacaoLivros
 Projeto voluntário em Cypress
